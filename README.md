@@ -1,8 +1,10 @@
-# Estudo SQL - Curso de Análise de Dados do Google
+# Estudo SQL
 
-Este repositório contém arquivos `.sql` com consultas e exercícios baseados no curso de Análise de Dados do Google, realizados no BigQuery.
+Este repositório contém arquivos `.sql` com consultas e exercícios baseados nos meus estudos.
 
 O objetivo é registrar e organizar minhas práticas em SQL para reforçar o aprendizado e facilitar futuras consultas.
+
+- Análise de Dados do Google: `BigQuery`
 
 ---
 
